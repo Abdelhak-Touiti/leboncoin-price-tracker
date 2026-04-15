@@ -1,0 +1,6 @@
+streamlit
+beautifulsoup4
+lxml
+undetected-chromedriver
+selenium
+requests

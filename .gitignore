@@ -1,0 +1,17 @@
+# Scraped data — never commit actual site data
+debug_page.html
+debug_nextdata.json
+debug_first_ad.json
+debug_img_error.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
