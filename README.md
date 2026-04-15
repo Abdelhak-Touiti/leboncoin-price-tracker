@@ -140,12 +140,14 @@ This project uses a **dual license** model:
 
 ## ⚠️ Disclaimer
 
-This project is built for **educational and portfolio purposes** to demonstrate browser automation, data extraction, and data engineering skills. Always review a website's Terms of Service before scraping at scale. LeBonCoin's CGU apply.
+This project is built for **educational and portfolio purposes** to demonstrate browser automation, data extraction, and data engineering skills. Always review a website's 
+Terms of Service before scraping at scale. LeBonCoin's CGU apply.
 
 ---
 
 ## 👤 Author
 
 Built by **Dr Abdelhak Touiti**
+
 Data Engineering — Portfolio Project
 [LinkedIn](https://www.linkedin.com/in/abdelhak-touiti/) · [GitHub](https://github.com/Abdelhak-Touiti)
